@@ -1,11 +1,40 @@
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KanakLilhare/KanakLilhare/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KanakLilhare/KanakLilhare/main/light.svg">
-  <img alt="Kanak Lilhare" src="https://raw.githubusercontent.com/KanakLilhare/KanakLilhare/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark(1).svg">
+  <source media="(prefers-color-scheme: light)" srcset="light(1).svg">
+  <img src="light.svg" alt="Kanak Lilhare | Data Science Student" width="100%">
 </picture>
 
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-KanakLilhare-181717?style=for-the-badge&logo=github)](https://github.com/KanakLilhare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanak--lilhare-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanak-lilhare/)
+
+</div>
+
+## About
+
+Data Science student focused on **Data Analytics** and **Machine Learning**.
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+## Connect
+
+- GitHub: [github.com/KanakLilhare](https://github.com/KanakLilhare)
+- LinkedIn: [linkedin.com/in/kanak-lilhare](https://www.linkedin.com/in/kanak-lilhare/)
 ## 👋 About Me
 
 I’m a Data Science student interested in **Data Analytics, Machine Learning, NLP, and Data Visualization**.
