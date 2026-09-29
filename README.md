@@ -181,9 +181,15 @@ End-to-end analytics project focused on analyzing **PM2.5 pollution patterns acr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanakLilhare&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" height="180"/>
+<p>
+  <b>💻 Building projects with Python, SQL, Machine Learning & MLOps</b>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakLilhare&layout=compact&hide_border=true&theme=default&cache_seconds=86400" height="180"/>
+<p>
+  <a href="https://github.com/KanakLilhare">
+    <img src="https://img.shields.io/badge/GitHub-KanakLilhare-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
