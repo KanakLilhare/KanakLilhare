@@ -41,12 +41,6 @@ I’m a Data Science student interested in **Data Analytics, Machine Learning, N
 
 I enjoy working with real-world data, building machine learning solutions, and creating dashboards that turn data into meaningful insights.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" width="48%">
-  <img src="./profile/top-langs.svg" width="48%">
-</p>
 
 ## 🔥 GitHub Streak
 
