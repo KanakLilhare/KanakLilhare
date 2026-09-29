@@ -19,6 +19,12 @@ I enjoy working with real-world data, building machine learning solutions, and c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakLilhare&layout=compact&hide_border=true" width="48%">
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KanakLilhare&hide_border=true" />
+</p>
+
 ## 🚀 Featured Projects
 
 📊 **Delhi-NCR Air Quality Analysis**  
