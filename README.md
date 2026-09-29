@@ -53,16 +53,6 @@ I enjoy working with real-world data, building machine learning solutions, and c
 <p align="center">
   <img src="https://raw.githubusercontent.com/KanakLilhare/KanakLilhare/output/github-contribution-grid-snake.svg" />
 </p>
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/KanakLilhare">
-    <img src="https://img.shields.io/badge/GitHub-KanakLilhare-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/kanak-lilhare/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kanak%20Lilhare-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
 
 ## 🚀 Featured Projects
 
@@ -84,7 +74,16 @@ Data-driven analysis of PM2.5 pollution patterns across Delhi-NCR using Python, 
 
 **Tools:** Git • GitHub • VS Code • FastAPI
 
+## 🔗 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/KanakLilhare">
+    <img src="https://img.shields.io/badge/GitHub-KanakLilhare-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/kanak-lilhare/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kanak%20Lilhare-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 
 ---
