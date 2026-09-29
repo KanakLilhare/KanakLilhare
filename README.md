@@ -43,42 +43,26 @@ I enjoy working with real-world data, building machine learning solutions, and c
 
 ## 🚀 Featured Projects
 
-📊 **Delhi-NCR Air Quality Analysis**  
-Environmental data analysis using Python, SQL, PostgreSQL and Power BI.
+🤖 MLOps Fraud Detection Platform
+End-to-end credit card fraud detection platform using machine learning, MLflow, FastAPI, Docker, Streamlit, and monitoring tools.
 
-🤖 **Resume–Job Matching API**  
-NLP-based resume and job-description matching using TF-IDF, machine learning and FastAPI.
+🎵 Spotify Music Analytics
+Data analytics project analyzing 114K+ music tracks using Python, PostgreSQL, and Power BI to explore genres, popularity, and audio features.
 
-🎵 **Music Recommendation System**  
-Machine-learning based recommendation system for personalized music suggestions.
-
-🩺 **Medical Voice Assistant**  
-Voice-based application for providing patient-oriented medical information.
-
+🌍 Delhi-NCR Air Quality Analysis
+Data-driven analysis of PM2.5 pollution patterns across Delhi-NCR using Python, SQL, PostgreSQL, and Power BI.
 ## 🛠️ Skills
 
-**Programming:** Python • SQL • R • Java
+**Programming:** Python • SQL 
 
-**Data Science:** Pandas • NumPy • Scikit-learn • Machine Learning • NLP
+**Data Science:** Pandas • NumPy • Scikit-learn • Machine Learning • Data Analysis
 
 **Visualization:** Power BI • Excel • Data Visualization
 
-**Tools:** Git • GitHub • Jupyter • VS Code • FastAPI
+**Tools:** Git • GitHub • VS Code • FastAPI
 
-## 📜 Certifications
 
-- Data Analytics with R Programming
-- AI-Data Scientist — Skill India
-- Introduction to Data Analysis using Microsoft Excel — Coursera
 
-## 📈 Currently Learning
-
-Machine Learning • NLP • Time Series Analysis • Advanced Data Analytics • Power BI
-
-## 📫 Connect With Me
-
-**GitHub:** @KanakLilhare  
-**ORCID:** 0009-0003-5637-7878
 
 ---
 
