@@ -176,16 +176,16 @@ End-to-end analytics project focused on analyzing **PM2.5 pollution patterns acr
 * 🗄️ **Data Engineering** — Data pipelines, databases, and processing
 
 ---
-
 <h2>🔹 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KanakLilhare&show_icons=true&hide_border=true&title_color=2563EB&text_color=475569&icon_color=7C3AED&bg_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KanakLilhare&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakLilhare&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakLilhare&layout=compact&hide_border=true&theme=default&cache_seconds=86400" height="180"/>
 
 </div>
+
 
 <h2>🔹 Contribution Streak</h2>
 
