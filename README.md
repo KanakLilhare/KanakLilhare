@@ -176,6 +176,7 @@ End-to-end analytics project focused on analyzing **PM2.5 pollution patterns acr
 * 🗄️ **Data Engineering** — Data pipelines, databases, and processing
 
 ---
+---
 <h2>🔹 GitHub Analytics</h2>
 
 <div align="center">
@@ -186,6 +187,7 @@ End-to-end analytics project focused on analyzing **PM2.5 pollution patterns acr
 
 </div>
 
+---
 
 <h2>🔹 Contribution Streak</h2>
 
