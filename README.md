@@ -148,21 +148,7 @@ End-to-end analytics project focused on analyzing **PM2.5 pollution patterns acr
 
 ---
 
-### 📊 Data Analytics Projects
 
-A collection of practical projects covering **exploratory data analysis, visualization, NLP, sentiment analysis, and predictive modeling**.
-
-**Technologies**
-
-<p>
-<img src="https://img.shields.io/badge/Python-EEF2FF?style=flat-square&logo=python&logoColor=1E3A8A"/>
-<img src="https://img.shields.io/badge/Pandas-EEF2FF?style=flat-square&logo=pandas&logoColor=7C3AED"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-EEF2FF?style=flat-square&logo=scikit-learn&logoColor=D97706"/>
-</p>
-
-<a href="https://github.com/KanakLilhare/OIBSIP">→ View Projects</a>
-
----
 
 <h2>🔹 Data Science Journey</h2>
 
