@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4C1D95&height=220&section=header&text=KANAK%20LILHARE&fontSize=56&fontColor=F1F5F9&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<br>
-
-<h3>Data → Insights → Models → Solutions</h3>
 
 <p>
   <img src="https://img.shields.io/badge/DATA%20SCIENCE-1E3A8A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
