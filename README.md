@@ -25,6 +25,12 @@ I enjoy working with real-world data, building machine learning solutions, and c
   <img src="https://streak-stats.demolab.com?user=KanakLilhare&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanakLilhare/KanakLilhare/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🚀 Featured Projects
 
 📊 **Delhi-NCR Air Quality Analysis**  
