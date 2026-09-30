@@ -15,7 +15,7 @@
 
 ## About
 
-Data Science student focused on **Data Analytics** and **Machine Learning**.
+Computer Science and Engineering (Data Science) student focused on **Data Analytics** and **Machine Learning**.
 
 ## Tech Stack
 
@@ -72,7 +72,7 @@ Data-driven analysis of PM2.5 pollution patterns across Delhi-NCR using Python, 
 
 **Visualization:** Power BI • Excel • Data Visualization
 
-**Tools:** Git • GitHub • VS Code • FastAPI
+**Tools:** Git • GitHub • FastAPI
 
 ## 🔗 Connect With Me
 
