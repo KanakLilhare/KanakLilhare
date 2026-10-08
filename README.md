@@ -70,9 +70,10 @@ Data-driven analysis of PM2.5 pollution patterns across Delhi-NCR using Python, 
 
 **Data Science:** Pandas • NumPy • Scikit-learn • Machine Learning • Data Analysis
 
-**Visualization:** Power BI • Excel • Data Visualization
+**Visualization:** Power BI • Excel • Data Visualization 
 
-**Tools:** Git • GitHub • FastAPI
+
+**Tools:** Git • GitHub • FastAPI • Streamlit
 
 ## 🔗 Connect With Me
 
